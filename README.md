@@ -19,7 +19,11 @@ The application helps manage blood donors, recipients, and blood inventory effic
 ***🛠️ Tech Stack***
 
 **Frontend:** React.js, Redux, Bootstrap
+
 **Backend:** Node.js, Express.js
+
 **Database:** MongoDB (Mongoose for schema modeling)
+
 **Authentication:** JWT, bcrypt for password hashing
+
 **Other Tools:** Axios, dotenv
