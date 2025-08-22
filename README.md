@@ -2,6 +2,10 @@
 **A full-stack Blood Bank Management Application built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
 The application helps manage blood donors, recipients, and blood inventory efficiently, providing a seamless interface for hospitals, blood banks, and users.**
 
+***Live Demo*
+
+You can view the live website here:
+
 ***🚀 Features***
 
 1.🔑 User Authentication & Authorization (Admin, Donor, Hospital/Recipient roles)
